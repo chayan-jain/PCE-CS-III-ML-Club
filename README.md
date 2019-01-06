@@ -3,7 +3,7 @@
 ## 3rd Year
 | S.No. | Stars | Registration No. | Name | Git Repo Link |
 |-------|-------|------------------|------|---------------|
-| 1 | | PCE16CE031 | Chayan Jain ||
+| 1 | | PCE16CE031 | Chayan Jain | https://github.com/chayan-jain/My-ML-Practice-Club
 | 2 | 1 :star: | PCE16CE085 | Rishina Dargar | https://github.com/rishinadargar/My-ML-Practice |
 | 3 | | PCE16CE048 | Jai Prakash Vadera ||
 | 4 | | PCE16CE081 | Priyanshi Agrawal | https://github.com/Priyanshi641/My-Practice-ML |
